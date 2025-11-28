@@ -1,0 +1,10 @@
+C:\C# Projects\CH7\CH7EX5\bin\Debug\CH7EX5.exe.config
+C:\C# Projects\CH7\CH7EX5\bin\Debug\CH7EX5.exe
+C:\C# Projects\CH7\CH7EX5\bin\Debug\CH7EX5.pdb
+C:\C# Projects\CH7\CH7EX5\obj\Debug\CH7EX5.csproj.AssemblyReference.cache
+C:\C# Projects\CH7\CH7EX5\obj\Debug\CH7EX5.FineForOverdueBooks.resources
+C:\C# Projects\CH7\CH7EX5\obj\Debug\CH7EX5.Properties.Resources.resources
+C:\C# Projects\CH7\CH7EX5\obj\Debug\CH7EX5.csproj.GenerateResource.cache
+C:\C# Projects\CH7\CH7EX5\obj\Debug\CH7EX5.csproj.CoreCompileInputs.cache
+C:\C# Projects\CH7\CH7EX5\obj\Debug\CH7EX5.exe
+C:\C# Projects\CH7\CH7EX5\obj\Debug\CH7EX5.pdb

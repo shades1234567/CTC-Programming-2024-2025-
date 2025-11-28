@@ -1,0 +1,10 @@
+C:\C# Projects\CH7\CH7EX2\bin\Debug\CH7EX2.exe.config
+C:\C# Projects\CH7\CH7EX2\bin\Debug\CH7EX2.exe
+C:\C# Projects\CH7\CH7EX2\bin\Debug\CH7EX2.pdb
+C:\C# Projects\CH7\CH7EX2\obj\Debug\CH7EX2.csproj.AssemblyReference.cache
+C:\C# Projects\CH7\CH7EX2\obj\Debug\CH7EX2.PaintingEstimate.resources
+C:\C# Projects\CH7\CH7EX2\obj\Debug\CH7EX2.Properties.Resources.resources
+C:\C# Projects\CH7\CH7EX2\obj\Debug\CH7EX2.csproj.GenerateResource.cache
+C:\C# Projects\CH7\CH7EX2\obj\Debug\CH7EX2.csproj.CoreCompileInputs.cache
+C:\C# Projects\CH7\CH7EX2\obj\Debug\CH7EX2.exe
+C:\C# Projects\CH7\CH7EX2\obj\Debug\CH7EX2.pdb
