@@ -1,0 +1,10 @@
+C:\C# Projects\CH6\CH6EX10\obj\Debug\CH6EX10.csproj.AssemblyReference.cache
+C:\C# Projects\CH6\CH6EX10\obj\Debug\CH6EX10.Form1.resources
+C:\C# Projects\CH6\CH6EX10\obj\Debug\CH6EX10.Properties.Resources.resources
+C:\C# Projects\CH6\CH6EX10\obj\Debug\CH6EX10.csproj.GenerateResource.cache
+C:\C# Projects\CH6\CH6EX10\obj\Debug\CH6EX10.csproj.CoreCompileInputs.cache
+C:\C# Projects\CH6\CH6EX10\bin\Debug\CH6EX10.exe.config
+C:\C# Projects\CH6\CH6EX10\bin\Debug\CH6EX10.exe
+C:\C# Projects\CH6\CH6EX10\bin\Debug\CH6EX10.pdb
+C:\C# Projects\CH6\CH6EX10\obj\Debug\CH6EX10.exe
+C:\C# Projects\CH6\CH6EX10\obj\Debug\CH6EX10.pdb
